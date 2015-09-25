@@ -1,1 +1,1 @@
-1. "Python is the metamucil of programming languages."
+1. "Scala is irregular; Python is the metamucil of programming languages."

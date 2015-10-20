@@ -1,1 +1,4 @@
 1. "Scala is irregular; Python is the metamucil of programming languages."
+2. "It's more like we didn't go to the moon and now we don't go to the moon"
+3. "You know how Python is a "glue" language? Well I'm made out of glue"
+4. "Richard Stallman probably sucks his toes to allign his chakra."

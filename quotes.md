@@ -2,3 +2,4 @@
 2. "It's more like we didn't go to the moon and now we don't go to the moon"
 3. "You know how Python is a "glue" language? Well I'm made out of glue"
 4. "Richard Stallman probably sucks his toes to allign his chakra."
+5. "I don't _know_ math; I know _of_ math."
